@@ -1,2 +1,6 @@
-# Hello-World-First-Time
-This is to test creating a Repository
+## Data Science Specialization 
+
+* Uses R 
+* Nine courses 
+* Goes from raw data to data products
+* 
